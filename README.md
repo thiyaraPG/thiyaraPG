@@ -1,6 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Thiyara Gunawardena</h1>
+
+<p align="center">
+<img src="https://i.ibb.co/jZRTy0J/csf9-CYO09.gif" height="300px" width="700px" border="0">
+</p>
 <h3 align="center">A passionate Data Scientist from Sri Lanka</h3>
 
 - 🔭 I’m currently Learning on **SLIIT**
