@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiyara Gunawardena</h1>
 <h3 align="center">A passionate Data Science Undergraduate from Sri Lanka</h3>
 
-###About Me
+About Me
 ---
 - 🔭 I’m currently Learning **Data Science and ML**
 
